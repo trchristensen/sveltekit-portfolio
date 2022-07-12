@@ -41,7 +41,7 @@ import Svelte from '$lib/icons/Svelte.icon.svelte'
 
 <style lang="postcss">
   .container {
-    @apply mt-6 flex flex-row items-center justify-between;
+    @apply flex flex-row items-center justify-between pt-4;
   }
   h1 {
     @apply hidden;

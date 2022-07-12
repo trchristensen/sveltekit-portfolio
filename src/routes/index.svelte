@@ -66,9 +66,9 @@
         </ul>
       </div>
 
-      <div class="mb-10">
+      <div>
         <p>
-          Hey, I'm Todd. I am a caucasian, 30-something, cisgender male, currently residing in the
+          Hey, I'm Todd. I am a caucasian, 30-something year old, cisgender male, currently residing in the
           Philippines with my newly created family. I have been freelancing work the past few years
           and focusing on my own projects. However, I'm open to job offers.
         </p>
