@@ -41,12 +41,5 @@
 		"typescript": "^4.7.4",
 		"vite": "^2.9.13"
 	},
-<<<<<<< HEAD
-	"type": "module",
-	"dependencies": {
-		
-	}
-=======
 	"type": "module"
->>>>>>> db3873650e151be41319ae9ee27e797b2ffa6c4b
 }
